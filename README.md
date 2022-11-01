@@ -74,6 +74,6 @@
 <!-- statistic -->
 <details> 
   <summary>📊 GitHub Stats :</summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="franggay github stats" src="https://github-readme-stats.vercel.app/api?username=franggay&show_icons=true&locale=en" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="franggay top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=franggay&show_icons=true&locale=en&layout=compact" alt="franggay" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="fauzyap github stats" src="https://github-readme-stats.vercel.app/api?username=fauzyap&show_icons=true&locale=en" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="fauzyap top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzyap&show_icons=true&locale=en&layout=compact" alt="fauzyap" height="192px"/></a>
 </details>
